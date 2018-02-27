@@ -1,0 +1,203 @@
+{
+  margin: 0;
+  padding: 0;
+
+}
+
+header
+{
+  background-image: url(Experiences.jpg);
+  margin: 0;
+  padding: 0;
+  height: 400vh;
+  background-size: cover;
+  background-position: center;
+}
+
+.MSF_Internship1
+{
+  position: relative;
+  top: 70px;
+  left: 100px;
+  width: 345px;
+  height: 250px;
+  padding:1px;
+   border:3px solid #021a40;
+   background-color:#ff0;
+}
+
+h1
+{
+  position: relative;
+  top: 40px;
+  left: 50px;
+  color: Black;
+  background-color: lightgrey;
+  width: 430px;
+  text-decoration: none;
+  font-family: FreeMono, monospace;
+  font-size: 20px;
+  position: center;
+}
+
+.Paragraph1
+{
+  position: relative;
+  left:600px;
+  bottom: 200px;
+  background-color: lightgrey;
+  text-align: center;
+  font-size: 15px;
+  width: 400px;
+  color: grey;
+  text-emphasis-style: circle;
+  font-family: FreeMono, monospace
+}
+
+.LenusWear2
+{
+  position: relative;
+  bottom: 120px;
+  left: 100px;
+  width: 345px;
+  height: 250px;
+  padding:1px;
+   border:3px solid #021a40;
+   background-color:#ff0;
+}
+
+h2
+{
+  position: relative;
+  bottom:145px;
+  left: 50px;
+  text-align: center;
+  color: Black;
+  background-color: lightgrey;
+  width: 430px;
+  text-decoration: none;
+  font-family: FreeMono, monospace;
+  font-size: 20px;
+  position: center;
+}
+
+.Paragraph2
+{
+  position: relative;
+  left:600px;
+  bottom: 400px;
+  background-color: lightgrey;
+  text-align: center;
+  font-size: 15px;
+  width: 400px;
+  color: grey;
+  text-emphasis-style: circle;
+  font-family: FreeMono, monospace
+}
+
+.ResearchPicture
+{
+  position: relative;
+  bottom: 390px;
+  left: 78px;
+  width: 395px;
+  height: 320px;
+  padding:1px;
+   border:3px solid #021a40;
+   background-color:#ff0;
+}
+
+h3
+{
+  position: relative;
+  bottom:385px;
+  left: 60px;
+  text-align: center;
+  color: Black;
+  background-color: lightgrey;
+  width: 430px;
+  text-decoration: none;
+  font-family: FreeMono, monospace;
+  font-size: 20px;
+  position: center;
+}
+
+.Paragraph3
+{
+  position: relative;
+  left: 585px;
+  bottom: 775px;
+  background-color: lightgrey;
+  text-align: center;
+  font-size: 15px;
+  width: 420px;
+  color: grey;
+  text-emphasis-style: circle;
+  font-family: FreeMono, monospace
+}
+
+.MemoryPicture
+{
+  position: relative;
+  top: 200px;
+  left: 78px;
+  width: 395px;
+  height: 320px;
+  padding:1px;
+   border:3px solid #021a40;
+   background-color:#ff0;
+}
+
+h4
+{
+  position: relative;
+  top:100px;
+  right: 500px;
+  text-align: center;
+  color: Black;
+  background-color: lightgrey;
+  width: 430px;
+  text-decoration: none;
+  font-family: FreeMono, monospace;
+  font-size: 20px;
+  position: center;
+}
+
+.Paragraph4
+{
+  position: relative;
+  left: 585px;
+  bottom: 775px;
+  background-color: lightgrey;
+  text-align: center;
+  font-size: 15px;
+  width: 420px;
+  color: grey;
+  text-emphasis-style: circle;
+  font-family: FreeMono, monospace
+}
+
+.main-nav :hover {
+    background-color: lightgrey;
+}
+
+.main-nav
+{
+  float: center;
+  list-style:none;
+  margin-top:40px:
+}
+
+.main-nav li
+{
+  display: inline-grid;
+}
+
+.main-nav li a
+{
+  color: white;
+  text-decoration: none;
+  padding: 20px 48.28px;
+  font-family: FreeMono, monospace;
+  font-size: 22px;
+}

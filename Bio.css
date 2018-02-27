@@ -1,0 +1,66 @@
+{
+  margin: 0;
+  padding: 0;
+
+}
+
+header
+{
+  background-image: url(Bio.jpg);
+  margin: 0;
+  padding: 0;
+  height: 97vh;
+  background-size: cover;
+  background-position: center;
+}
+
+div.Bio
+{
+  position: relative;
+  top: 40px;
+  left: 250px;
+  background-color: #D5E2E3;
+  margin: 0 auto;
+  text-align: center;
+  width: 340px;
+  color: #9082BF;
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 14px;
+}
+
+.BioPhoto
+{
+  position: relative;
+  bottom: 225px;
+  left: 105px;
+  width: 375px;
+  height: 250px;
+  padding:1px;
+   border:3px solid #021a40;
+   background-color:#ff0;
+}
+
+.main-nav :hover {
+    background-color: lightgrey;
+}
+
+.main-nav
+{
+  float: center;
+  list-style:none;
+  margin-top:40px:
+}
+
+.main-nav li
+{
+  display: inline-grid;
+}
+
+.main-nav li a
+{
+  color: white;
+  text-decoration: none;
+  padding: 20px 48.28px;
+  font-family: FreeMono, monospace;
+  font-size: 22px;
+}

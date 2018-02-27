@@ -1,0 +1,50 @@
+{
+  margin: 0;
+  padding: 0;
+
+}
+
+header
+{
+  background-image: url(HomeScreen.jpg);
+  margin: 0;
+  padding: 0;
+  height: 97vh;
+  background-size: cover;
+  background-position: center;
+}
+
+p
+{
+  color: white;
+  text-decoration: none;
+  font-family: FreeMono, monospace;
+  font-size: 25px;
+  position: center;
+  padding: 100px 65px;
+}
+
+.main-nav :hover {
+    background-color: lightgrey;
+}
+
+.main-nav
+{
+  float: center;
+  list-style:none;
+  margin-top:40px:
+}
+
+.main-nav li
+{
+  display: inline-grid;
+}
+
+.main-nav li a
+{
+  color: white;
+  text-decoration: none;
+  padding: 20px 48.28px;
+  font-family: FreeMono, monospace;
+  font-size: 22px;
+}
